@@ -2,7 +2,8 @@
 
 ## Enron Email Classification
 
-Developed a text preprocessing/text mining framework utilizing NLP techniques such as stemming, lemmatization, tokenization, lowercasing, and stop word removal that improved analysis efficiency. Harnessing Python, applied various machine learning algorithms to increase accuracy and reduce loss to 5.14.
+Developed a text preprocessing/text mining framework utilizing NLP techniques such as stemming, lemmatization, tokenization, lowercasing, and stop word removal that improved analysis efficiency. 
+Harnessed Python, applied various machine learning algorithms to increase accuracy and reduce loss to 5.14.
 
 ### 🛠 Data Analysis Tools:
 
