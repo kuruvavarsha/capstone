@@ -11,7 +11,7 @@ Developed a text preprocessing/text mining framework utilizing NLP techniques su
 
 ### 🧠 Machine Learning Techniques:
 
-![](https://img.shields.io/badge/NLP-Natural_Language_Processing-9cf?style=for-the-badge)
+![](https://img.shields.io/badge/Natural_Language_Processing-9cf?style=for-the-badge)
 ![](https://img.shields.io/badge/Logistic_Regression-FF6F61?style=for-the-badge)
 ![](https://img.shields.io/badge/MLP_Classifier-FFD700?style=for-the-badge)
 ![](https://img.shields.io/badge/Random_Forest-008000?style=for-the-badge)
